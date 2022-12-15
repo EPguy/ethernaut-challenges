@@ -12,6 +12,6 @@
 5. To install necessary packages and compile, run the following command:
 ```
     npm install
-    npx hardhat --network goerli run .\scripts\LockProblem.ts
+    npx hardhat --network goerli run .\scripts\Force.ts
 ```
 
