@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.6.0;
+// this hacking only work in previous 0.8.0 version.
+pragma solidity ^0.8.0;
 
 contract Token {
 
