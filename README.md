@@ -1,4 +1,4 @@
-# [ethernaut](https://app.web3oj.com/app/home/) solutions
+# [ethernaut](https://ethernaut.openzeppelin.com/) solutions
 
 ## How to start?
 1. Sign up for an account on [alchemy](https://www.alchemy.com/).
